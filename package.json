@@ -1,11 +1,11 @@
 {
-  "name": "github-user-activity",
+  "name": "@cw-ankit/github-user-actions",
   "version": "1.0.0",
   "description": "A professional CLI to fetch GitHub user activity",
   "main": "src/index.js",
   "bin": {
-    "github-activity": "./src/index.js",
-    "gha": "./src/index.js"
+    "github-activity": "src/index.js",
+    "gha": "src/index.js"
   },
   "type": "module",
   "scripts": {
